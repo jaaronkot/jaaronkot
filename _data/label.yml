@@ -5,16 +5,16 @@
 # MIT Licensed
 
 panel:
-  lastmod: Recent Update
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: 最新文章
+  trending_tags: 热门标签
+  toc: 文章大纲
 
 post:
-  relate_posts: Further Reading
+  relate_posts: 更多阅读
   button:
-    next: Newer
-    previous: Older
+    next: 较新的文章
+    previous: 较早的文章
 
-search_hint: Search   # text show on search bar
+search_hint: 搜索   # text show on search bar
 
 pin_prompt: Pinned   # pinned prompt
