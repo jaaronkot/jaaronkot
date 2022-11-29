@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github State
-![github stats](https://github-readme-stats.vercel.app/api?username=gezhaoyou&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=gezhaoyou&show_icons=true)
