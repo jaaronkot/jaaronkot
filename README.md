@@ -9,9 +9,9 @@ If you are interested in my work or have any collaborative intentions, please fe
 
 Email: [jaaronkot@gmail.com](mailto:jaaronkot@gmail.com)
 
-WeChat: jaaronkot
+WeChat: 
 <p align="center">
-    <img src="assets/wechat.png" alt="wechat" width="150px"/>
+    <img src="assets/wechat.png" alt="wechat" width="120px"/>
 </p>
 
  I look forward to communicating with you!
