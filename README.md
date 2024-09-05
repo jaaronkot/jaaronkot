@@ -8,10 +8,3 @@ I have initiated the [PixPark](https://github.com/pixpark) open-source organizat
 If you are interested in my work or have any collaborative intentions, please feel free to contact me at:
 
 Email: [jaaronkot@gmail.com](mailto:jaaronkot@gmail.com)
-
-WeChat: 
-<p align="center">
-    <img src="assets/wechat.png" alt="wechat" width="120px"/>
-</p>
-
- I look forward to communicating with you!
