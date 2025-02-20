@@ -1,10 +1,7 @@
 ### About Me
-Hello everyone 👋, my name is Jaaron Kot, and I am an audio and video development engineer with extensive experience in WebRTC, live streaming, short video, and graphic processing.
- 
-I have initiated the [PixPark](https://github.com/pixpark) open-source organization, which focuses on developing and sharing open-source projects related to audio and video, such as our image filter library [GPUPixel](https://github.com/pixpark/gpupixel).
+👋 Hi, I'm a dev engineer specializing in live streaming, short video, and graphic processing.
 
-### Connect 
+I founded [PixPark](https://github.com/pixpark), an open-source org focused on audio/video projects like our image filter lib [GPUPixel](https://github.com/pixpark/gpupixel).
 
-If you are interested in my work or have any collaborative intentions, please feel free to contact me at:
-
-Email: [jaaronkot@gmail.com](mailto:jaaronkot@gmail.com)
+### Connect
+📩 Interested in collabs? Hit me up [here](https://gpupixel.pixpark.net/about/contact).
